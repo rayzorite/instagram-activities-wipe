@@ -39,7 +39,7 @@ Update 03/17/24:
 
       ```shell
       python -m venv venv
-      source venv/bin/activate
+      source venv/bin/activate.fish (for fish shell)
       ```
 
     - Windows:
